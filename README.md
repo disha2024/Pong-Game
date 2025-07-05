@@ -2,21 +2,21 @@ A simple two-player Pong game built with Python's turtle graphics module. This i
 
 🚀 Features
 
-Classic Pong game mechanics
+1.Classic Pong game mechanics
 
-Two-player control (W/S and ↑/↓ keys)
+2.Two-player control (W/S and ↑/↓ keys)
 
-Ball bouncing and increasing speed
+3.Ball bouncing and increasing speed
 
-Scoreboard with real-time updates
+4.Scoreboard with real-time updates
 
-Organized using classes (Paddle, Ball, Scoreboard)
+5.Organized using classes (Paddle, Ball, Scoreboard)
 
 🧩 What I Learned
-Creating objects using classes in Python
+1.Creating objects using classes in Python
 
-Using the turtle module for animation
+2.Using the turtle module for animation
 
-Detecting collisions and handling bouncing logic
+3.Detecting collisions and handling bouncing logic
 
-Managing game state with loops and conditions
+4.Managing game state with loops and conditions
